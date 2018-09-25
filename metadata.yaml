@@ -1,5 +1,5 @@
 _repo: Foxhunting-on-the-Lakeland-Fells_57007
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Ullswater, James William Lowther, Viscount
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1949
     gutenberg_agent_id: '49141'
     url: http://www.gutenberg.org/2009/agents/49141
+covers:
+- cover_type: archival
+  image_path: 57007-h/images/cover.jpg
 creator:
   author:
     agent_name: Clapham, Richard
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '46654'
     url: http://www.gutenberg.org/2009/agents/46654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57007#Foxhunting-on-the-Lakeland-Fells
 gutenberg_issued: '2018-04-20'
 gutenberg_type: Text
 identifiers:
